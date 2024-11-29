@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #121212; /* Màu nền đen */
+    color: #ffffff; /* Màu chữ trắng */
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header, footer {
+    background-color: #1e1e1e; /* Màu nền tối hơn cho tiêu đề và chân trang */
+    padding: 1em 0;
+}
+
+header h1, footer p {
+    margin: 0;
+}
+
+main {
+    padding: 2em;
+}
+
+a {
+    color: #bb86fc; /* Màu tím cho liên kết */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
